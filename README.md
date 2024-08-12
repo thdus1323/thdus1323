@@ -1,3 +1,6 @@
+# 💙Welcome to Soyeon's GitHub😀💙
+<br>
+<br>
 
 ![DALL·E-2024-08-12-16 29 (2)](https://github.com/user-attachments/assets/5c5e516b-0b73-4325-bfa4-eeb638e2d0df)
 
