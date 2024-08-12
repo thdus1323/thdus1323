@@ -1,5 +1,5 @@
-![DALL·E-2024-08-12-16 29](https://github.com/user-attachments/assets/fb19ee78-5659-4ef0-aeb3-61e770ba7d02)
 
+![DALL·E-2024-08-12-16 29 (2)](https://github.com/user-attachments/assets/5c5e516b-0b73-4325-bfa4-eeb638e2d0df)
 
 ## 노션주소
 
