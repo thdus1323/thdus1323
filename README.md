@@ -2,8 +2,6 @@
 <br>
 <br>
 
-![DALL·E-2024-08-12-16 29 (2)](https://github.com/user-attachments/assets/5c5e516b-0b73-4325-bfa4-eeb638e2d0df)
-
 ## 노션주소
 
 https://jewel-pea-35b.notion.site/f2ff5ca851484918b4c7189178f0be17?pvs=4
