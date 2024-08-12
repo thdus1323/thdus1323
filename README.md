@@ -7,6 +7,7 @@ https://jewel-pea-35b.notion.site/f2ff5ca851484918b4c7189178f0be17?pvs=4
 ### 취업공고 사이트
 
 https://github.com/thdus1323/fruitmarket_prac.git
+
 https://github.com/thdus1323/fruitmarketBuyer_prac.git
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
